@@ -1,5 +1,5 @@
 # Android-Logo-CSS
 
-Android Logo made entirely from CSS and HTML.
+In this project I recreated the Android mascot using HTML and CSS.
 
-made from following a tutorial from The Odin Project.
+This project also includes CSS animations.
